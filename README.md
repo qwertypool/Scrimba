@@ -15,3 +15,6 @@
 Waiting for upcoming challenges!
 
 By the way, if not over then you can also try this here:  <a href="http://weeklychallenge.scrimba.com/"> Weekly challenges </a>
+
+
+You can find an amazing course of color palletes in vanilla JS here(by scrimba) : <a href="https://scrimba.com/learn/javascriptcolortool"> Color pallette with vanilla JS </a>
