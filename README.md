@@ -13,3 +13,5 @@
 ![image](https://user-images.githubusercontent.com/36128196/96253467-3f544180-0fd1-11eb-9718-cef19bfd8e6b.png)
 
 Waiting for upcoming challenges!
+
+By the way, if not over then you can also try this here:  <a href="http://weeklychallenge.scrimba.com/"> Weekly challenges </a>
