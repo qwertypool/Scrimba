@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/36128196/96253742-c43f5b00-0fd1-11eb-8ea0-8b5e29aabdc0.png)
 
 
-## So, this are the modifications I added...
+## So, this are the modifications I added and some transitions ...
 
 ![image](https://user-images.githubusercontent.com/36128196/96253467-3f544180-0fd1-11eb-9718-cef19bfd8e6b.png)
 
